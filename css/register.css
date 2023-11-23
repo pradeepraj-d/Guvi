@@ -1,0 +1,13 @@
+.container{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+#registrationForm{
+    max-width: 500px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
